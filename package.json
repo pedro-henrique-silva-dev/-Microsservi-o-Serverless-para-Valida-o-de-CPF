@@ -1,0 +1,7 @@
+{
+  "name": "cpf-validator",
+  "version": "1.0.0",
+  "description": "Microserviço serverless para validação de CPF",
+  "main": "index.js",
+  "license": "MIT"
+}
