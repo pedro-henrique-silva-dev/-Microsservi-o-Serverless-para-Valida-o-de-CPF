@@ -19,5 +19,9 @@ Este microsserviço recebe um número de CPF via **query string** ou **body da r
 ---
 
 ## 📥 Exemplo de Entrada
-
+### Solicitação POST
+{
+  "cpf": "12345678909"
+}
 ### Requisição GET
+https://SEU-ENDPOINT.azurewebsites.net/api/ValidateCPF?cpf=12345678909
